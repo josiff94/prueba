@@ -8,4 +8,4 @@ Déficit, déficit, déééficiiiit, DÉFICIIIIIT
 
 O) ciclope 
 
-TUERTO 
+TUERTO <- °D 
